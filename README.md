@@ -14,6 +14,11 @@
 - Build 30+ projects.
 - Contribute to Open Source.
 
+### 💭 Ask me about
+- Astronomy 🔭
+- Blockchain ⛓
+- Design 🎨
+- and anything...
 <!-- 
 ### 🌴 Fun facts
 - Trying to explore the mysteries.
@@ -27,7 +32,7 @@
 <p>    </p>
 
 
-<h2 align="center">Connect 👥 with me on</h2>
+<h2 align="center">Feel free to Connect 👥 with me on</h2>
 <p align="center">
 <a href="https://www.youtube.com/channel/UCAfn8QoFhmSDhMYApwG6YnA/featured" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Rutvik Dev / Desg" height="30" width="40" /></a>
 <a href="https://instagram.com/rutvik_dev.desg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
