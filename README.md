@@ -39,12 +39,12 @@
 
 <h2 align="center">Feel free to Connect 👥 with me on</h2>
 <p align="center">
-<a href="https://www.youtube.com/channel/UCAfn8QoFhmSDhMYApwG6YnA/featured" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="Rutvik Dev / Desg" height="30" width="40" /></a>
-<a href="https://instagram.com/rutvik_dev.desg" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="rutvik_dev.desg" height="30" width="40" /></a>
-<a href="https://dev.to/rutvikj77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rutvikj77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rutvikjoshi" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="rutvikjoshi" height="30" width="40" /></a>
-<a href="https://www.behance.net/rutvikj" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/behance.png" alt="rutvikj" height="30" width="40" /></a>
-<a href="https://medium.com/@rutvikj77" target="blank"><img align="center" src="https://img.icons8.com/color/48/ffffff/medium-monogram.png" alt="@rutvikj77" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/OrionRJ7" target="blank"><img align="center" src="https://img.icons8.com/windows/32/26e07f/hackerrank.png" alt="OrionRJ7" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCAfn8QoFhmSDhMYApwG6YnA/featured" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="Rutvik Dev / Desg"/></a>
+<a href="https://instagram.com/rutvik_dev.desg" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="rutvik_dev.desg" /></a>
+<a href="https://dev.to/rutvikj77" target="blank"><img align="center" src="https://img.icons8.com/windows/48/4a90e2/dev.png" alt="rutvikj77" /></a>
+<a href="https://linkedin.com/in/rutvikjoshi" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="rutvikjoshi"/></a>
+<a href="https://www.behance.net/rutvikj" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/behance.png" alt="rutvikj"/></a>
+<a href="https://medium.com/@rutvikj77" target="blank"><img align="center" src="https://img.icons8.com/color/48/ffffff/medium-monogram.png" alt="@rutvikj77"/></a>
+<a href="https://www.hackerrank.com/OrionRJ7" target="blank"><img align="center" src="https://img.icons8.com/windows/48/26e07f/hackerrank.png" alt="OrionRJ7"/></a>
 </p>
 
