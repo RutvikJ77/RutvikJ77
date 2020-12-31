@@ -2,17 +2,17 @@
 <img src= "https://github.com/RutvikJ77/RutvikJ77/blob/master/assets/github%20profile.png"></img>
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
-- Quantum Computing
-- Devops
+- Data Structures and Algorithms
+- MERN Stack
 
 ### 💻 I'm working on
-- My portfolio website.
-- Stopmotion Creator
+- Competitive Programming
+- ![TeachmeStack](https://github.com/RutvikJ77/TeachmeStack)
 
-### 🌱 Goals for 2020
+### 🌱 Goals for 2021
 - Complete #100DaysOfCode challenge.
-- Build 30+ projects.
-- Contribute to Open Source.
+- Build 40+ projects.
+- Contribute to Open Source and interact with community.
 
 ### 💭 Ask me about
 - Astronomy 🔭
@@ -41,6 +41,7 @@
 <p align="center">
 <a href="https://www.youtube.com/channel/UCAfn8QoFhmSDhMYApwG6YnA/featured" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="Rutvik Dev / Desg"/></a>
 <a href="https://instagram.com/rutvik_dev.desg" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="rutvik_dev.desg" /></a>
+<a href="https://www.twitter.com/RutvikJ77" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="rutvikj77"/></a>
 <a href="https://dev.to/rutvikj77" target="blank"><img align="center" src="https://img.icons8.com/windows/48/4a90e2/dev.png" alt="rutvikj77" /></a>
 <a href="https://linkedin.com/in/rutvikjoshi" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="rutvikjoshi"/></a>
 <a href="https://www.behance.net/rutvikj" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/behance.png" alt="rutvikj"/></a>
