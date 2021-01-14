@@ -2,7 +2,7 @@
 <img src= "https://github.com/RutvikJ77/RutvikJ77/blob/master/assets/github%20profile.png"></img>
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
-- Data Structures and Algorithms
+- DevOps
 - MERN Stack
 
 ### 💻 I'm working on
@@ -29,11 +29,15 @@
 - Deep Learning
 - Edge Computing
 
-### 🗣 Languages and Tools
+<h3 align="center">🗣 Languages and Tools</h3>
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a> <a href="https://sklearn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a> <a href="https://sklearn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=RutvikJ77&show_icons=true&theme=algolia&hide_rank=true">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=RutvikJ77&theme=algolia">
+</p>
 <p>    </p>
 
 
@@ -41,7 +45,7 @@
 <p align="center">
 <a href="https://www.youtube.com/channel/UCAfn8QoFhmSDhMYApwG6YnA/featured" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="Rutvik Dev / Desg"/></a>
 <a href="https://instagram.com/rutvik_dev.desg" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="rutvik_dev.desg" /></a>
-<a href="https://www.twitter.com/RutvikJ77" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="rutvikj77"/></a>
+<a href="https://www.twitter.com/Rutvik_J27" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="rutvikj77"/></a>
 <a href="https://dev.to/rutvikj77" target="blank"><img align="center" src="https://img.icons8.com/windows/48/4a90e2/dev.png" alt="rutvikj77" /></a>
 <a href="https://linkedin.com/in/rutvikjoshi" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="rutvikjoshi"/></a>
 <a href="https://www.behance.net/rutvikj" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/behance.png" alt="rutvikj"/></a>
