@@ -7,7 +7,7 @@
 
 ### 💻 I'm working on
 - Competitive Programming
-- ![TeachmeStack](https://github.com/RutvikJ77/TeachmeStack)
+<!-- - ![TeachmeStack](https://github.com/RutvikJ77/TeachmeStack) -->
 
 ### 🌱 Goals for 2021
 - Complete #100DaysOfCode challenge.
