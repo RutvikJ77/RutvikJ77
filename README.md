@@ -2,11 +2,11 @@
 <img src= "https://github.com/RutvikJ77/RutvikJ77/blob/master/assets/github%20profile.png"></img>
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
-- DevOps
-- MERN Stack
+- Data Visualization
+- PERN Stack
 
 ### 💻 I'm working on
-- Competitive Programming
+- 30 days of tech
 <!-- - ![TeachmeStack](https://github.com/RutvikJ77/TeachmeStack) -->
 
 ### 🌱 Goals for 2021
@@ -25,7 +25,7 @@
 - Congratualtions on making through the shell.-->
 
 ### 🎯 Skilled in
-- Data Science / Data Analysis
+- Data Science / Data Analytics
 - Deep Learning
 - Edge Computing
 
