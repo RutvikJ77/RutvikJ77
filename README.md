@@ -1,5 +1,5 @@
 
-<img src= "https://github.com/RutvikJ77/RutvikJ77/blob/master/assets/github%20profile.png"></img>
+<img src= "./assets/github_header.png"></img>
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
 - Data Visualization
