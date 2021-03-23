@@ -6,7 +6,7 @@
 - PERN Stack
 
 ### 💻 I'm working on
-- 30 days of tech
+- [30 days of tech](https://github.com/30days-of-Tech)
 <!-- - ![TeachmeStack](https://github.com/RutvikJ77/TeachmeStack) -->
 
 ### 🌱 Goals for 2021
