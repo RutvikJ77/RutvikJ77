@@ -1,18 +1,22 @@
 
 <img src= "./assets/github_header.png"></img>
 <!-- Create a tabular data for blog posts-->
+
+### About 👤
+- I have keen interests in **Data, Design, and Technology** which are also my wheels of progression. I love **contributing and volunteering** for communities and help them create the impact which they desire through my **analytical and statistical data insights**, the major one being [Clinify India](https://clinify.in) community with whooping 21500+ members and still growing. I have worked with Incerno Technologies pvt. ltd. for about a year growing my knowledge regarding drones and Computer Vision with applications in the field of Agriculture. 
+
+- I like **weaving stories from data** and present them through visuals which easily translates the complex data into **short chunks of insights**.
+
+- I am passionate about developing trendy technologies and working with them. I am curious enough to know what the future holds by working with modern techs like **Quantum computing, Deep learning and Blockchain**. Just like Schordïnger's cat, living in a paradox with curiosity.
+
+
 ### ✔️ I'm currently learning
 - Data Visualization
 - PERN Stack
 
 ### 💻 I'm working on
-- [30 days of tech](https://github.com/30days-of-Tech)
+- To build a community of learners at [30 days of tech](https://github.com/30days-of-Tech)
 <!-- - ![TeachmeStack](https://github.com/RutvikJ77/TeachmeStack) -->
-
-### 🌱 Goals for 2021
-- Complete #100DaysOfCode challenge.
-- Build 40+ projects.
-- Contribute to Open Source and interact with community.
 
 ### 💭 Ask me about
 - Astronomy 🔭
