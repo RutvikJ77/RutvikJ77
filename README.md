@@ -10,7 +10,7 @@
 - I am passionate about developing trendy technologies and working with them. I am curious enough to know what the future holds by working with modern techs like **Quantum computing, Deep learning and Blockchain**. Just like Schordïnger's cat, living in a paradox with curiosity.
 
 
-### ✔️ I'm currently learning
+### ✅ I'm currently learning
 - Data Visualization
 - PERN Stack
 
