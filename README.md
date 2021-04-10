@@ -40,9 +40,8 @@
 
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=RutvikJ77&show_icons=true&theme=algolia&hide_rank=true">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=RutvikJ77&theme=algolia">
 </p>
-<p>    </p>
+<!--   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=RutvikJ77&theme=algolia"> -->
 
 
 <h2 align="center">Feel free to Connect 👥 with me on</h2>
