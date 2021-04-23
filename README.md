@@ -53,6 +53,6 @@
 <a href="https://linkedin.com/in/rutvikjoshi" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="rutvikjoshi"/></a>
 <a href="https://www.behance.net/rutvikj" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/behance.png" alt="rutvikj"/></a>
 <a href="https://medium.com/@rutvikj77" target="blank"><img align="center" src="https://img.icons8.com/color/48/ffffff/medium-monogram.png" alt="@rutvikj77"/></a>
-<a href="https://www.hackerrank.com/OrionRJ7" target="blank"><img align="center" src="https://img.icons8.com/windows/48/26e07f/hackerrank.png" alt="OrionRJ7"/></a>
+<a href="https://www.hackerrank.com/RutvikJ77" target="blank"><img align="center" src="https://img.icons8.com/windows/48/26e07f/hackerrank.png" alt="RutvikJ77"/></a>
 </p>
 
