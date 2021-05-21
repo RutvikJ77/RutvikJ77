@@ -3,7 +3,7 @@
 <!-- Create a tabular data for blog posts-->
 
 ### 👤 About
-- I have keen interests in **Data, Design, and Technology** which are also my wheels of progression. I love **contributing and volunteering** for communities and help them create the impact which they desire through my **analytical and statistical data insights**, the major one being [Clinify India](https://clinify.in) community with whooping 21500+ members and still growing. I have worked with Incerno Technologies pvt. ltd. for about a year growing my knowledge regarding drones and Computer Vision with applications in the field of Agriculture. 
+- I have keen interests in **Data, Design, and Development** which are also my wheels of progression. I love **contributing and volunteering** for communities and help them create the impact which they desire through my **analytical and statistical data insights**, the major one being [Clinify India](https://clinify.in) community with whooping 21500+ members and still growing. I have worked with Incerno Technologies pvt. ltd. for about a year growing my knowledge regarding drones and Computer Vision with applications in the field of Agriculture. 
 
 - I like **weaving stories from data** and present them through visuals which easily translates the complex data into **short chunks of insights**.
 
