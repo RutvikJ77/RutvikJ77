@@ -5,14 +5,14 @@
 ### Self
 
 - A specialist generalist in data-driven decision-making, blockchain innovation, and business strategy. I help with analytical solutions that optimize processes and drive insights with the core idea of creating win-win situations.
-- I have helped and supported:
+- I have served and lead for 3+ years at:
   
-  |  Company   | Skills |
-  | -------- | ------- |
-  | CRA (Gov.)  | Business Analysis, Data Analysis, Data Visualisation, IT Change Management   |
-  | Polygon (Blockchain & Marketing) | Ecosystem Growth Analysis & Consulting, Partnership Marketing, DevRel    |
-  | BlueGrid (Ocean Tech)    | Data Science, Machine Learning, & Statistics    |
-  | EasyPlatter (Retail)    | Product Design, UI/UX    |
+  |  Company   | Skills | Highlight |
+  | -------- | ------- | ------- |
+  | CRA (Gov.)  | Business Analysis, Data Analysis, Data Visualisation, IT Change Management | Automated critical reporting, reducing manual effort by 40%, saving 100 mins in analysis and enhancing data accuracy & quality for executive decision-making. |
+  | Polygon (Blockchain & Marketing) | Ecosystem Growth Analysis & Consulting, Partnership Marketing, DevRel | Led multi-channel Web3 marketing campaigns, driving 250K+ impressions and 55%+ organic engagement growth, while advising 100+ projects on GTM strategies for long-term success. |
+  | BlueGrid (Ocean Tech)  | Data Science, Machine Learning, & Statistics | Optimized energy analysis visualization achieving 94% data correlation, developing Grafana dashboards providing adhoc insights for fleet modernization in the atlantic maritime sector. |
+  | EasyPlatter (Retail)   | Product Design, UI/UX | Redesigned the homepage and optimized the subscription process, boosting user engagement and sign-ups, while integrating interactive nutrition pages for an enhanced UX. |
 
 <!--- I am currently working as a Marketing Analyst at [Polygon](https://polygon.technology) and I have keen interests in **Data, Design, and Development** which are also my wheels of progression. I love **contributing and volunteering** for communities and help them create the impact which they desire through my **analytical and statistical data insights**, the major one being [Bluelearn(previously Clinify India)](https://bluelearn.in) community with whooping 25000+ members and still growing. I have worked with Incerno Technologies pvt. ltd. for about a year growing my knowledge regarding drones and Computer Vision with applications in the field of Agriculture. 
 
